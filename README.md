@@ -31,4 +31,4 @@ Goal is to predict the total_cases label for each (city, year, weekofyear) in th
 * Gradient Boosting Regressor Model for SJ:  23.744933179041322
 * Gradient Boosting Regressor Model for IQ:  6.744875532183025
 
-### The minium MAE that could be achieved the averaging the models is 25.5313
+##### The minium MAE that could be achieved the averaging the models is 25.5313
