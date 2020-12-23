@@ -7,6 +7,7 @@ Goal is to predict the total_cases label for each (city, year, weekofyear) in th
 # Metric of measure - MAE
 
 # Following is a summary of predictions done using different algorithms
+
 Linear Regression Model:  23.372312994769963
 Linear Regression Model:  6.796203990035329
 
@@ -25,4 +26,4 @@ Decision Tree Regressor Model:  6.350630816064368
 Gradient Boosting Regressor Model:  23.744933179041322
 Gradient Boosting Regressor Model:  6.744875532183025
 
-# The minium MAE that could be achieved the averaging the models is 25.5313
+### The minium MAE that could be achieved the averaging the models is 25.5313
